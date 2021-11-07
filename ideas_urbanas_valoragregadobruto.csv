@@ -1,8 +1,4 @@
-Nombre del Indicador: Valor Agregado Bruto
-Definición: Es el valor de venta de bienes y servicios producidos descontados los costos de productos intermedios utilizados para su producción
-Unidad de medida: $
-Fuente de datos: Banco Central Ecuador
-Año,Ibarra,Quito,Cuenca,Guayaquil
+Anio,Ibarra,Quito,Cuenca,Guayaquil
 2007,481910.98,10380823.48,2104755.15,9033531.69
 2008,548421.06,12435409.74,2380588.53,10873541.79
 2009,631105.31,12914790.94,2568795.34,11448945.83
